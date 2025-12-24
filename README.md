@@ -1,4 +1,4 @@
-# Fashion MNIST — Classification (Starter Repo)
+# Fashion MNIST — Classification
 
 A minimal, production-friendly starter for training a CNN on **Fashion MNIST** and serving it via **Gradio** or **FastAPI**.
 
